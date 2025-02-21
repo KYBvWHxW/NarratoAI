@@ -33,3 +33,4 @@ resource/fonts/*.otf
 resource/srt/*.srt
 app/models/faster-whisper-large-v2/*
 app/models/bert/*
+directory_analysis_*.md
